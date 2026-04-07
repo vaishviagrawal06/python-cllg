@@ -19,5 +19,5 @@
 # -------------conditional statement-------------
 # python me : colon use hota hai instead of bracket
 # if(condtion) ❌ 
-# if condition :✅ 
+# if condition :✅ if then condition then use colon
 # we use elif✅ instead of else if ❌
