@@ -12,3 +12,9 @@
 # range(10,4,4) not possible because 10 ke baad 14 aayega naa ki vo kam hoga
 
 # range(20,5,-20) => 20 ans
+
+
+# -------------while loop------------------
+# while(condition):
+# tasks that you have to perform
+# update statement
